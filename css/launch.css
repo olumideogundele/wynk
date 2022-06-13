@@ -1,0 +1,22 @@
+/* screen - launch */
+
+.launch {
+  background-color: var(--white);
+  cursor: pointer;
+  display: flex;
+  height: 100vh;
+  min-height: 926px;
+  min-width: 428px;
+  overflow: hidden;
+  width: 100%;
+}
+
+.launch .lagos-busy-street_1 {
+  flex: 1;
+  margin-bottom: -160px;
+  margin-left: -551px;
+  margin-right: -681px;
+  margin-top: -159px;
+  object-fit: cover;
+  width: 1660px;
+}

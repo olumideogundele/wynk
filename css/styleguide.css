@@ -1,0 +1,20 @@
+:root { 
+  --white: #ffffff;
+  --woodsmoke: #0f0f0f;
+ 
+  --font-size-l: 18px;
+  --font-size-m: 12.5px;
+  --font-size-s: 10.4px;
+  --font-size-xl: 25.9px;
+ 
+  --font-family-circularstd-book: "CircularStd-Book", Helvetica;
+  --font-family-circularstd-medium: "CircularStd-Medium", Helvetica;
+  --font-family-source_sans_pro: "Source Sans Pro", Helvetica;
+}
+.sourcesanspro-normal-woodsmoke-18px {
+  color: var(--woodsmoke);
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}

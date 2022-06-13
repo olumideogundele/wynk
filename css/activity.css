@@ -1,0 +1,247 @@
+/* screen - activity */
+
+.activity {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 844px;
+  padding: 73.5px 26px;
+  width: 390px;
+}
+
+.activity .flex-col {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  min-height: 469px;
+  width: 244px;
+}
+
+.activity .title {
+  align-self: flex-start;
+  color: #0e0e24;
+  font-family: var(--font-family-source_sans_pro);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: -0.65px;
+  line-height: 25.9px;
+  min-height: 35px;
+  white-space: nowrap;
+}
+
+.activity .group-container {
+  align-self: flex-start;
+  height: 30px;
+  margin-top: 4px;
+  position: relative;
+  width: 126px;
+}
+
+.activity .path-container {
+  height: 5px;
+  left: 95px;
+  position: absolute;
+  top: 2px;
+  width: 5px;
+}
+
+.activity .path-9649 {
+  height: 5px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.activity .path-9650 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 5px;
+}
+
+.activity .group-630 {
+  align-items: flex-end;
+  display: flex;
+  height: 30px;
+  justify-content: space-between;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 126px;
+}
+
+.activity .group-629 {
+  align-items: flex-end;
+  background-color: #211e8a0d;
+  border-radius: 15px;
+  display: flex;
+  min-width: 71px;
+  padding: 7.2px 15px;
+}
+
+.activity .activities {
+  color: #162860;
+  font-family: var(--font-family-circularstd-medium);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  letter-spacing: -0.26px;
+  line-height: 10.4px;
+  min-height: 12px;
+  min-width: 41px;
+  white-space: nowrap;
+}
+
+.activity .deliveries {
+  color: var(--woodsmoke);
+  font-family: var(--font-family-circularstd-medium);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  height: 12px;
+  letter-spacing: -0.26px;
+  line-height: 10.4px;
+  margin-bottom: -4.8px;
+  margin-right: -2px;
+  opacity: 0.4;
+  white-space: nowrap;
+  width: 45px;
+}
+
+.activity .overlap-group1 {
+  height: 165px;
+  margin-top: 152px;
+  position: relative;
+  width: 170px;
+}
+
+.activity .rectangle-98 {
+  background-color: #211e8a;
+  border-radius: 20px;
+  height: 150px;
+  left: 20px;
+  opacity: 0.05;
+  position: absolute;
+  top: 0;
+  width: 150px;
+}
+
+.activity .ellipse-37 {
+  background-color: #211e8a;
+  border-radius: 44px;
+  height: 88px;
+  left: 0;
+  opacity: 0.3;
+  position: absolute;
+  top: 77px;
+  width: 88px;
+}
+
+.activity .group-627 {
+  background-image: url(../img/union-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 40px;
+  left: 30px;
+  opacity: 0.2;
+  position: absolute;
+  top: 101px;
+  width: 27px;
+}
+
+.activity .rectangle-107 {
+  background-color: #654349;
+  border-radius: 7px;
+  height: 10px;
+  left: 40px;
+  opacity: 0.1;
+  position: absolute;
+  top: 27px;
+  width: 110px;
+}
+
+.activity .rectangle-108 {
+  background-color: #654349;
+  border-radius: 7px;
+  height: 10px;
+  left: 40px;
+  opacity: 0.1;
+  position: absolute;
+  top: 52px;
+  width: 64px;
+}
+
+.activity .nothing-to-show-yet {
+  color: var(--woodsmoke);
+  font-family: var(--font-family-circularstd-medium);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  letter-spacing: -0.45px;
+  line-height: 18px;
+  margin-right: 12px;
+  margin-top: 24px;
+  min-height: 20px;
+  min-width: 152px;
+  white-space: nowrap;
+}
+
+.activity .when-you-use-our-ser {
+  color: var(--woodsmoke);
+  font-family: var(--font-family-circularstd-book);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: -0.31px;
+  line-height: 12.5px;
+  margin-right: 10px;
+  margin-top: 8px;
+  min-height: 31px;
+  min-width: 148px;
+  opacity: 0.4;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.activity .menu-closed {
+  display: flex;
+  height: 18px;
+  margin-left: 56px;
+  margin-top: 5.46px;
+  width: 28px;
+}
+
+.activity .menu-5 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100%;
+  width: 28px;
+}
+
+.activity .line-5 {
+  align-self: flex-end;
+  height: 2px;
+  margin-right: -0.75px;
+  object-fit: cover;
+  width: 16px;
+}
+
+.activity .line-4 {
+  height: 2px;
+  margin-left: -0.75px;
+  margin-top: 8px;
+  object-fit: cover;
+  width: 30px;
+}
+
+.activity .line-6 {
+  height: 2px;
+  margin-left: -0.75px;
+  margin-top: 8px;
+  object-fit: cover;
+  width: 16px;
+}

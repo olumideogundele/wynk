@@ -1,0 +1,26 @@
+/* screen - launch-1 */
+
+.launch-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  cursor: pointer;
+  display: flex;
+  height: 926px;
+  padding: 297px 90px;
+  width: 428px;
+}
+
+.launch-1 .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/wynk-02-26@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  min-width: 248px;
+}
+
+.launch-1 .wynk-02 {
+  height: 166px;
+  object-fit: cover;
+  width: 248px;
+}
